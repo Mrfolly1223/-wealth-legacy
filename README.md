@@ -1,1 +1,1 @@
-# -wealth-legacy
+index.html
